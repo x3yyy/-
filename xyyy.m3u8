@@ -1969,8 +1969,12 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/98cf3be578414d8ab5
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/64a5084ac6c14fbeac9d7272121f3451/1200.m3u8
 #EXTINF:-1 group-title="🦋小魔仙剧",小魔仙剧26
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fb2239726d1e45d4a74e59a46e2d065b/1200.m3u8
+#EXTINF:-1 group-title="👶少儿频道",CCTV-14
+http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094424/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?icpid=3&RTS=1668595134&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="👶少儿频道",IHOT爱动漫
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1 group-title="👶少儿频道",爱幼教
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000049/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000049&livemode=1&stbId=3
 #EXTINF:-1 group-title="👶少儿频道",哈哈炫动
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 #EXTINF:-1 group-title="👶少儿频道",IHOT爱玩具

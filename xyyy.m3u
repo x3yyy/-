@@ -217,10 +217,6 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
 #EXTINF:-1 group-title="🎀安徽",安徽经济生活
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-#EXTINF:-1 group-title="🎀安徽",安徽公共
-http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8
-#EXTINF:-1 group-title="🎀安徽",安徽农业科教
-http://mmitv.top/test/ahtv.php?id=14
 #EXTINF:-1 group-title="🎀安徽",安徽影视
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 #EXTINF:-1 group-title="🎀安徽",安徽综艺体育

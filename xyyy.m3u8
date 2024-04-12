@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-3 group-title="🎀安徽",安徽卫视
+#EXTINF:-1 group-title="🎀安徽",安徽卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829349154529.m3u8

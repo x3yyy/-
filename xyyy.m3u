@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 group-title="🎀安徽",安徽卫视 
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="🎀安徽",安徽农业科教 
+#EXTINF:-5 group-title="🎀安徽",安徽农业科教 
 http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829358013848.m3u8
 http://202.102.201.244:40022/rtp/238.1.79.40:4432
 http://live.cooltv.top/tv/anhui.php?id=ahnykj

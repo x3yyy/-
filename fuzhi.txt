@@ -1,3 +1,10 @@
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+104.17.205.83:443#自己
+104.17.87.211:443#自己
+104.17.0.155:443#自己
+104.16.200.221:443#自己
+104.17.170.157:443#自己
+104.16.170.245:443#自己
+104.17.196.184:443#自己
+104.26.8.202:443#自己
+172.67.70.252:443#自己
+104.18.212.170:443#自己
